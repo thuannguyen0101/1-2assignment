@@ -101,3 +101,4 @@ C:\Users\thuan\source\repos\lab3\lab3\obj\Debug\lab3.Migrations.UserSeeder.resou
 C:\Users\thuan\source\repos\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
 C:\Users\thuan\source\repos\lab3\lab3\obj\Debug\lab3.Migrations.RoleSeeder.resources
 C:\Users\thuan\source\repos\lab3\lab3\obj\Debug\lab3.Migrations.hellowork.resources
+C:\Users\thuan\source\repos\lab3\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
